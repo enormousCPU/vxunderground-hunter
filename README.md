@@ -12,12 +12,6 @@ cd vxunderground-hunter
 pip install -r requirements.txt
 ```
 and simply run `python vxug-py --help`:
-             ___ _   _ _____ _____ ____ _____ _____ ____  
-      |_ _| \ | |  ___| ____/ ___|_   _| ____|  _ \ 
-       | ||  \| | |_  |  _|| |     | | |  _| | | | |
-       | || |\  |  _| | |__| |___  | | | |___| |_| |
-      |___|_| \_|_|   |_____\____| |_| |_____|____/ 
-
 
       usage: vxug.py [-h] [-m MALWARE] [-dm] [-dn] [-dp DOWNLOADPATH]
 
