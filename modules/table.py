@@ -49,7 +49,7 @@ class table():
         self.pTable()
         cmd = ""
         help = """
-        exit - exit programe
+        exit - exit program
         n1-n2 - donwload all malwares/hashes from n1 to n2
         n1,n2,...,nk download individual malwares/hashes. must be seperated by ','
         n1,n2&n3-nk download malware/hash n1 and n2 and download all malwares/hashes from n3 to nk. compined commands must be seperated by "&"
